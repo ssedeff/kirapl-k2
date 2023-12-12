@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\hira\kitap\kitap\bin\Debug\kitap.exe.config
+C:\Users\User\Desktop\KORUMASIZ\hira\kitap\kitap\bin\Debug\kitap.exe
+C:\Users\User\Desktop\KORUMASIZ\hira\kitap\kitap\bin\Debug\kitap.pdb
+C:\Users\User\Desktop\KORUMASIZ\hira\kitap\kitap\obj\Debug\kitap.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\hira\kitap\kitap\obj\Debug\kitap.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\hira\kitap\kitap\obj\Debug\kitap.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\hira\kitap\kitap\obj\Debug\kitap.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\hira\kitap\kitap\obj\Debug\kitap.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\hira\kitap\kitap\obj\Debug\kitap.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\hira\kitap\kitap\obj\Debug\kitap.exe
+C:\Users\User\Desktop\KORUMASIZ\hira\kitap\kitap\obj\Debug\kitap.pdb
